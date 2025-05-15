@@ -1,3 +1,4 @@
+![alt text](banner.png)
 # 🔐 180 Days of DSA for Cybersecurity
 
 Welcome to my **180-day journey** to master **Data Structures and Algorithms (DSA)** using **Java**, with a special focus on **Cybersecurity applications**. This repository will be updated **daily** with code, explanations, and real-world analogies that connect DSA concepts to InfoSec principles.
